@@ -76,6 +76,7 @@ body {
   color: var(--btn-text-color);
 }
 .modal-btn {
+  font-family: var(--main-font);
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
