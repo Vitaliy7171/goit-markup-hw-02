@@ -13,7 +13,7 @@
   --secondary-color: #757575;
   --logo-color: #000000;
   --accent-color: #2196f3;
-  --hero-backgroud-color: #2f303a;
+  --hero-background-color: #2f303a;
   --btn-text-color: #ffffff;
   --team-background-color: #f5f4fa;
   --portfolio-btn-back-color: #f5f4fa;
@@ -64,7 +64,7 @@ body {
 
 /*########## MAIN ############*/
 .hero {
-  background-color: var(--hero-backgroud-color);
+  background-color: var(--hero-background-color);
 }
 .hero-title {
   font-weight: 900;
