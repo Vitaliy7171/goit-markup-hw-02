@@ -167,7 +167,7 @@ body {
 
 /*########## FOOTER ############*/
 .footer {
-  background-color: var(--hero-backgroud-color);
+  background-color: var(--hero-background-color);
 }
 .link-logo-footer {
   font-family: 'Raleway', sans-serif;
